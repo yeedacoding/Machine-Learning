@@ -6,6 +6,6 @@
 
 
 ## Deep-Learning
-- Scratch를 통한 Perceptron 이해
+- Scratch를 통한 Perceptron 이해
 - Tensorflow, Pytorch를 이용해 Neural Network 구현 연습
 - [notion 공부기록](https://enormous-iron-b03.notion.site/Deep-Learning-15b8132285b6809c9f26d979a4fadfe9)
